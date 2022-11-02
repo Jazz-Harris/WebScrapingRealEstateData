@@ -15,7 +15,7 @@ for page in range(1,7):
 
     with open ('HomeForSalesInIreland.csv', 'a', encoding='utf8', newline='') as f:
         thewriter = writer(f)
-        header = ['Title','Address','Price','Size','bedrooms','bathrooms','ContactName','ContactPhone']
+        header = ['Title','Address','Price','bedrooms','bathrooms','ContactName','ContactPhone']
         thewriter.writerow(header)
 
         for list in lists:

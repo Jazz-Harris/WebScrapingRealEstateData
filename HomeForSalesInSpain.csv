@@ -1,4 +1,4 @@
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Sant Andreu de Llavaneres, Maresme Coast…","Barcelona, Spain","€1,630,000",5Bedrooms,5Bathrooms,Lluís Barrera,+34 935 007 658+34 935 007 658
 Cullera…,"Valencia, Spain","€685,000",5Bedrooms,3Bathrooms,Estefania Roig,+34 960 077 790+34 960 077 790
 …,"Sevilla, Spain","€685,000",6Bedrooms,3Bathrooms,,+34 955 14 71 51+34 955 14 71 51
@@ -15,7 +15,7 @@ Las Rozas…,"Madrid, Spain","€890,000",3Bedrooms,3Bathrooms,,+34 912 624 578+
 "Estepona town, Estepona…","Costa del Sol, Spain","€2,395,000",5Bedrooms,4Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 "Barri Vell, Girona City…","Girona, Spain","€595,000",3Bedrooms,2Bathrooms,Tom Maidment,+34 872 22 32 62+34 872 22 32 62
 Pla de l'Estany…,"Girona, Spain","€1,290,000",10Bedrooms,,Tom Maidment,+34 872 22 32 62+34 872 22 32 62
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Eixample Left, Barcelona City…","Barcelona, Spain","€1,090,000",4Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Eixample Right, Barcelona City…","Barcelona, Spain","€730,000",3Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Eixample Right, Barcelona City…","Barcelona, Spain","€1,090,000",5Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
@@ -32,7 +32,7 @@ Las Rozas…,"Madrid, Spain","€850,000",5Bedrooms,4Bathrooms,,+34 912 624 578+
 Pozuelo…,"Madrid, Spain","€2,590,000",5Bedrooms,5Bathrooms,Barend Hart,+34 699 095 185+34 699 095 185
 Calonge…,"Costa Brava, Spain","€3,400,000",4Bedrooms,3Bathrooms,Robin Veerman,+34 872 025 008+34 872 025 008
 "Teià, Maresme Coast…","Barcelona, Spain","€910,000",4Bedrooms,4Bathrooms,Tom Maidment,+34 935 952 490+34 935 952 490
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Sierra Blanca, Marbella…","Costa del Sol, Spain","€1,200,000",2Bedrooms,3Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 "Atalaya, Estepona…","Costa del Sol, Spain","€999,000",3Bedrooms,2Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 "Benahavís, Benahavís inland…","Costa del Sol, Spain","€575,000",3Bedrooms,2Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
@@ -49,7 +49,7 @@ Pontevedra…,"Galicia, Spain","€590,000",4Bedrooms,3Bathrooms,Rafael Rosendo,
 "Ruzafa, Valencia City…","Valencia, Spain","€599,000",3Bedrooms,2Bathrooms,Estefania Roig,+34 960 077 790+34 960 077 790
 "Sitges Town / Sant Sebastian / Aiguadolç, Sitges…","Barcelona, Spain","€1,150,000",2Bedrooms,2Bathrooms,Rachel Haslam,+34 935 952 550+34 935 952 550
 Calonge…,"Costa Brava, Spain","€749,000",3Bedrooms,3Bathrooms,Robin Veerman,+34 872 025 008+34 872 025 008
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 Calonge…,"Costa Brava, Spain","€950,000",5Bedrooms,4Bathrooms,Robin Veerman,+34 872 025 008+34 872 025 008
 East Málaga…,"Málaga, Spain","€1,090,000",3Bedrooms,2Bathrooms,Rodolfo Nuñez,+34 952 643 015+34 952 643 015
 Mijas…,"Costa del Sol, Spain","€1,000,000",3Bedrooms,2Bathrooms,Rodolfo Nuñez,+34 952 643 015+34 952 643 015
@@ -65,7 +65,7 @@ Finestrat / Sierra Cortina…,"Costa Blanca, Spain","€1,250,000",3Bedrooms,2Ba
 "Mirasol, Sant Cugat…","Barcelona, Spain","€1,450,000",5Bedrooms,4Bathrooms,,+34 930 23 58 07+34 930 23 58 07
 "Sant Cugat centre, Sant Cugat…","Barcelona, Spain","€1,125,000",4Bedrooms,3Bathrooms,,+34 930 23 58 07+34 930 23 58 07
 La Moraleja…,"Madrid, Spain","€9,500,000",6Bedrooms,5Bathrooms,,+34 912 624 578+34 912 624 578
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Cabrera de Mar, Maresme Coast…","Barcelona, Spain","€1,590,000",6Bedrooms,6Bathrooms,Tom Maidment,+34 935 952 490+34 935 952 490
 "San Pedro de Alcántara, Marbella…","Costa del Sol, Spain","€1,900,000",4Bedrooms,4Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 "Nueva Andalucía, Marbella…","Costa del Sol, Spain","€799,000",3Bedrooms,2Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
@@ -82,7 +82,7 @@ Baix Empordà…,"Girona, Spain","€2,200,000",7Bedrooms,5Bathrooms,Tom Maidmen
 "Eixample Right, Barcelona City…","Barcelona, Spain","€699,000",3Bedrooms,3Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 …,"Escaldes, Andorra","€1,650,000",3Bedrooms,2Bathrooms,Jordi Tapies,+376 775 077+376 775 077
 Med Hills Resort…,"Calle Zorzal 16 Fuengirola, 29640","€176,000 -​ €277,600",,,David Gámez Sánchez,+34 952 062 782+34 952 062 782
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Golden Mile, Marbella…","Costa del Sol, Spain","€3,950,000",4Bedrooms,5Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 Gavà Mar…,"Barcelona, Spain","€699,000",4Bedrooms,2Bathrooms,Anastasiya Krauchanka,+34 930 022 023+34 930 022 023
 "Eixample Right, Barcelona City…","Barcelona, Spain","€1,620,000",2Bedrooms,3Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
@@ -99,7 +99,7 @@ Godella / Rocafort…,"Valencia, Spain","€1,675,000",8Bedrooms,5Bathrooms,Este
 "Sant Francesc, Valencia City…","Valencia, Spain","€675,000",4Bedrooms,2Bathrooms,Estefania Roig,+34 960 077 790+34 960 077 790
 "El Pla del Remei, Valencia City…","Valencia, Spain","€600,000",3Bedrooms,2Bathrooms,Estefania Roig,+34 960 077 790+34 960 077 790
 Torrelodones…,"Madrid, Spain","€965,000",4Bedrooms,5Bathrooms,,+34 912 624 578+34 912 624 578
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Golden Mile, Marbella…","Costa del Sol, Spain","€2,100,000",3Bedrooms,3Bathrooms,Arjen Spittael,+34 637 996 636+34 637 996 636
 "Eixample Right, Barcelona City…","Barcelona, Spain","€1,295,000",4Bedrooms,4Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Eixample Left, Barcelona City…","Barcelona, Spain","€945,000",5Bedrooms,3Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
@@ -115,7 +115,7 @@ Platja d'Aro…,"Costa Brava, Spain","€3,000,000",6Bedrooms,5Bathrooms,Robin V
 Benissa…,"Costa Blanca, Spain","€995,000",7Bedrooms,5Bathrooms,Emma Price,+34 965 79 33 63+34 965 79 33 63
 Jávea…,"Costa Blanca, Spain","€790,000",4Bedrooms,3Bathrooms,Emma Price,+34 965 79 33 63+34 965 79 33 63
 Jávea…,"Costa Blanca, Spain","€799,000",6Bedrooms,4Bathrooms,Emma Price,+34 965 79 33 63+34 965 79 33 63
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 Baix Empordà…,"Girona, Spain","€1,975,000",5Bedrooms,3Bathrooms,Tom Maidment,+34 872 22 32 62+34 872 22 32 62
 "Eixample Right, Barcelona City…","Barcelona, Spain","€970,000",4Bedrooms,3Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Eixample Left, Barcelona City…","Barcelona, Spain","€540,000",3Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
@@ -131,7 +131,7 @@ Baix Empordà…,"Girona, Spain","€1,525,000",4Bedrooms,5Bathrooms,Tom Maidmen
 "Poblenou, Barcelona City…","Barcelona, Spain","€559,000",3Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Poblenou, Barcelona City…","Barcelona, Spain","€519,000",3Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 "Eixample Right, Barcelona City…","Barcelona, Spain","€770,000",2Bedrooms,2Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,Bedrooms,Bathrooms,ContactName,ContactPhone
 "Sant Gervasi - Galvany, Barcelona City…","Barcelona, Spain","€1,275,000",5Bedrooms,3Bathrooms,Cristina Rosello,+34 933 562 989+34 933 562 989
 …,"Escaldes, Andorra","€2,250,000",4Bedrooms,3Bathrooms,Jordi Tapies,+376 775 077+376 775 077
 Finestrat / Sierra Cortina…,"Costa Blanca, Spain","€1,375,000",3Bedrooms,2Bathrooms,José Coronel,+34 965 208 331+34 965 208 331

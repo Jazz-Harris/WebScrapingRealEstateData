@@ -1,70 +1,4 @@
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
-"Millburn House & Farm, Ardour…","Kilconly, Tuam, Co Galway, H54 TN23","€1,300,000",4Bedrooms,4Bathrooms,James Butler,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Silver Granite, 15 Belmont Gardens…","Donnybrook, Dublin 4, D04 R9C2","€1,550,000",3Bedrooms,,Gavin Kennedy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-28 Bishops Gate…,"Kilternan, Co Dublin, D18 E8N3","€625,000",3Bedrooms,4Bathrooms,Gavin Kennedy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Emalian, Tivoli Estate…","Tivoli, Cork, T23 D6EX","€925,000",7Bedrooms,6Bathrooms,Michael O'Donovan,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Creevagh Heights, Creevagh…","Ballina, Co.Mayo, F26 W7K8","€650,000",6Bedrooms,5Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Aeolus, Cartron…","Strandhill, Co. Sligo, F91 C9Y3","€850,000",4Bedrooms,3Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-4 Hollyhill Lane…,"Blarney Street, Cork, T23 KNN4","€285,000",3Bedrooms,2Bathrooms,Kate Buttimer,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Manderlay, Crosstown…","Wexford Town, Co Wexford, Y35 EK5H","€975,000",7Bedrooms,6Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-21 Maple Woods…,"Ballinacurra, Midleton, Co Cork, P25 WK29","€335,000",4Bedrooms,3Bathrooms,Lawrence Sweeney,+353 (0) 21 490 6343+353 (0) 21 490 6343
-"Hoardstown, Lobinstown…","Navan, Co Meath, C15 H1F7","€495,000",5Bedrooms,4Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Pau Hana, Courtaparteen…","Kinsale, Co Cork, P17AK71","€1,650,000",4Bedrooms,5Bathrooms,Michael O'Donovan,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Rath More Green, Barrack Green…","Kinsale, Co. Cork","€430,000 -​ €565,000",3Bedrooms,,Elizabeth Hegarty,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"White Walls, Sea Road…","Ballymoney, Co. Wexford, Y25 D535","€950,000",4Bedrooms,3Bathrooms,Liam McCarthy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"2 Ballyowen, Wellingtonbridge…","Co Wexford, Y35X E24","€400,000",4Bedrooms,,Gavin Kennedy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"West Lodge, Knockeen…","Butlerstown, Co Waterford, X91 P9HW","€650,000",5Bedrooms,2Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-Holderness…,"Rochestown Road, Cork, T12 ENY5","€995,000",5Bedrooms,3Bathrooms,Michael O'Donovan,+353 (0) 21 427 1371+353 (0) 21 427 1371
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
-2 Ballynaroon…,"Glounthaune, Co Cork, T45 PW97","€575,000",5Bedrooms,2Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"An Clasach, Goggins Hill…","Ballinhassig, Co Cork, T12 XY5P","€595,000",5Bedrooms,3Bathrooms,Michael O'Donovan,+353 (2) 1 427 1371+353 (2) 1 427 1371
-8 Birchley…,"Model Farm Road, Carrigrohane, Cork City, T12 PWV8","€1,275,000",5Bedrooms,3Bathrooms,Lawrence Sweeney,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Land At Lisdornan, Lisdornan…","Julianstown, Co Meath","€150,000",,,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-Ardsallagh Estate…,"Ardsallagh, Fethard, Co. Tipperary, E91 FX20","€2,650,000",5Bedrooms,5Bathrooms,James Butler,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-27 Cove Walk Avenue…,"Kinsale Manor, Kinsale, Co Cork, P17 ED65","€425,000",3Bedrooms,3Bathrooms,Lawrence Sweeney,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Land At Charlestown, Athlone Road…","Mullingar, Co Westmeath","€440,000",,,Pat O'Hagan,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Lot 1 - Land At Charlestown, Athlone Road…","Mullingar, Co Westmeath","€80,000",,,Pat O'Hagan,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-16 The Oakwood…,"Killeen Castle, Dunsany, Co Meath, C15 X83K","€1,950,000",5Bedrooms,6Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"The Penthouse, 1 Alexandra Place…","St Lukes, Cork, T23 X275","€265,000",2Bedrooms,1Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Lot 2 - Land At Charlestown, Athlone Road…","Mullingar, Co Westmeath","€360,000",,,Pat O'Hagan,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Harbour View, Camden Road…","Crosshaven, Co Cork, P43 HE64","€495,000",3Bedrooms,2Bathrooms,Lawrence Sweeney,+353 (2) 1 427 1371+353 (2) 1 427 1371
-3 Ardmore…,"The Headlands, Sarsfield Road, Cork, T12 RH98","€210,000",2Bedrooms,1Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Caney Lodge, Talbots Inch…","Kilkenny, Co Kilkenny, R95 YYC4","€1,495,000",4Bedrooms,4Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-48 Seven Oaks…,"Frankfield, Douglas, Cork, T12 W29X","€395,000",4Bedrooms,3Bathrooms,Michael O'Donovan,+353 (2) 1 427 1371+353 (2) 1 427 1371
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
-22 Iona Place…,"Mayfield, Cork, T23 R8A0","€260,000",3Bedrooms,1Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
-Oak Park…,"Malahide, Co Dublin, DUBLIN","€570,000",,,Kate Evans,+353 (0) 1 618 1300+353 (0) 1 618 1300
-"Fernleigh, Park…","Stradbally, Co. Laois, R32 T8W8","€650,000",4Bedrooms,3Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Cappagh Stone House, Inistioge…","Co. Kilkenny, R95 H9F6","€975,000",4Bedrooms,3Bathrooms,Pat O'Hagan,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Greenwood, Kinsealy Lane…","Kinsealy, DUBLIN","€865,000",4Bedrooms,,Kate Evans,+353 (0) 1 618 1300+353 (0) 1 618 1300
-"Sea La Vie, Coast Road…","Fountainstown, Co Cork","€1,250,000",4Bedrooms,5Bathrooms,Michael O'Donovan,+353 (0) 21 427 1371+353 (0) 21 427 1371
-"Sherwood House, Gallowshill…","Athy, Co Kildare, R14 YX93","€2,500,000",5Bedrooms,5Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-24 The Cloisters…,"Ballincollig, Cork, P31XD81","€320,000",3Bedrooms,3Bathrooms,Lawrence Sweeney,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Bramble House, Ilaunstookagh (Dooks)…","Cromane, Co Kerry, V93X985","€795,000",5Bedrooms,5Bathrooms,Catherine McAuliffe,+353 (0) 21 490 6117+353 (0) 21 490 6117
-"Lisadell, Tuites Lane…","Old Golf Links Road, Blackrock, Co Louth, A91 F865","€795,000",4Bedrooms,4Bathrooms,Liam McCarthy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"The Lodge, Hop Island…","Rochestown, Cork, T12 D2PC","€715,000",4Bedrooms,1Bathrooms,Michael O'Donovan,+353 (0) 21 427 1371+353 (0) 21 427 1371
-"03 Streamstown Meadow, Malahide…","Co. Dublin, K36 HW95","€950,000",4Bedrooms,,Kate Evans,+353 (0) 1 618 1300+353 (0) 1 618 1300
-"Lough Talt, Aclare…","Ballymote, Co Sligo, F91 E3P4","€595,000",3Bedrooms,3Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Beltichburne, Mounttemple…","Moneygold, Grange, Co Sligo, F91 D2R6","€2,000,000",4Bedrooms,4Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-9 Elm Park…,"Nutley Lane, Donnybrook, Dublin 4, D04 F6R0","€1,350,000",4Bedrooms,3Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-41 The Fastnet…,"Lancaster Gate, Western Road, Cork City, T12 AE89","€480,000",2Bedrooms,,Lawrence Sweeney,+353 (2) 1 427 1371+353 (2) 1 427 1371
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
-2 Parnell Terrace…,"Pouladuff Road, Cork, T12 Y2N5","€285,000",3Bedrooms,1Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
-"Glenoory, Downings…","Co Donegal, F92 F662","€450,000",1Bedrooms,1Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-Bohatch…,"Mountshannon, Co. Clare, V94 K4CR","€395,000",4Bedrooms,3Bathrooms,Liam McCarthy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-The 19th Lodge…,"Ballybunion, Co Kerry, V31 K235","€1,250,000",14Bedrooms,16Bathrooms,Michael O'Donovan,+353 (0) 21 427 1371+353 (0) 21 427 1371
-"Seabird House, Bannow…","Wellingtonbridge, Co Wexford, Y35 K766","€600,000",3Bedrooms,4Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-1 Upper Janemount…,"Buxton Hill, Sunday's Well, Cork, T23 ECC8","€265,000",3Bedrooms,1Bathrooms,Karl O'Reilly,+353 (0) 21 490 6111+353 (0) 21 490 6111
-"Oak Lodge, Bellinter Bridge…","Tara, Co Meath, C15 T2TV","€800,000",4Bedrooms,2Bathrooms,Liam McCarthy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Villaflor, Weavers Point…","Crosshaven, Co Cork, P43 PF85","€595,000",2Bedrooms,1Bathrooms,Lawrence Sweeney,+353 (0) 21 490 6343+353 (0) 21 490 6343
-"Kilfeacle House, Churchquarter…","Kilfeacle, Co Tipperary, E34 DR72","€1,100,000",12Bedrooms,,James Butler,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-"Teach An Cullin, Caragh Lake…","Killorglin, Co Kerry, V93 N1F6","€975,000",5Bedrooms,4Bathrooms,Catherine McAuliffe,+353 (0) 21 490 6117+353 (0) 21 490 6117
-"18 Altus, Sundays Well…","Cork City, T23 YD0V","€525,000",2Bedrooms,2Bathrooms,Karl O'Reilly,+353 (0) 21 490 6111+353 (0) 21 490 6111
-"24 Altus, Sundays Well…","Cork City, T23 YD0V","€625,000",2Bedrooms,2Bathrooms,Karl O'Reilly,+353 (0) 21 490 6111+353 (0) 21 490 6111
-Wyldwood…,"St Francis Avenue, Cork City, T12 E2KO","€895,000",4Bedrooms,3Bathrooms,Michael O'Donovan,+353 (2) 1 427 1371+353 (2) 1 427 1371
-4A Spafield Terrace…,"Ballsbridge, Dublin 4, D04 P7Y5","€825,000",4Bedrooms,3Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-9 Cahill Ville…,"Alexandra Road, St Lukes, Cork, T23 NPH6","€310,000",2Bedrooms,1Bathrooms,Kate Buttimer,+353 (2) 1 427 1371+353 (2) 1 427 1371
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,bedrooms,bathrooms,ContactName,ContactPhone
 "Old Farmhouse, Ballinatone Lower…","Rathdrum, Co Wicklow, A67 F211","€675,000",3Bedrooms,2Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
 "1 Boyne View, Slane…","Co Meath, C15 HX32","€450,000",4Bedrooms,4Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
 "Rockmahon, The Highlands…","Glounthaune, Co. Cork, T45 W867","€750,000",6Bedrooms,4Bathrooms,Lawrence Sweeney,+353 (0) 21 490 6343+353 (0) 21 490 6343
@@ -80,7 +14,7 @@ Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
 "Wish Willow, Whitepark…","Arklow, Co. Wexford, Y14 WY98","€1,950,000",4Bedrooms,,Pat O'Hagan,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
 "Beechcroft, Rahillion…","Donabate, Co Dublin, K36 TD93","€850,000",2Bedrooms,1Bathrooms,Cianan Duff,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
 "Down Yonder, Upper Rosses…","Rosses Point, Co Sligo, F91 DK26","€2,400,000",9Bedrooms,10Bathrooms,James Butler,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
-Title,Address,Price,Size,bedrooms,bathrooms,ContactName,ContactPhone
+Title,Address,Price,bedrooms,bathrooms,ContactName,ContactPhone
 "8 Broguemakers Hill, Greens Hill…","Kilkenny City, Co Kilkenny, R95 N15Y","€595,000",4Bedrooms,2Bathrooms,Liam McCarthy,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
 "Loughmahon View, The Close…","Rochestown, Co Cork, T12 FD6F","€520,000",2Bedrooms,2Bathrooms,Karl O'Reilly,+353 (2) 1 427 1371+353 (2) 1 427 1371
 "Breasty Bay & Skildren Cottage, Malin Head…","Malin, Co Donegal, F93 V9R6","€1,500,000",7Bedrooms,8Bathrooms,James Butler,+ 353 (0) 1 618 1300+ 353 (0) 1 618 1300
